@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="submit">20dp</dimen>
+    <dimen name="createaccount">25dp</dimen>
+</resources>

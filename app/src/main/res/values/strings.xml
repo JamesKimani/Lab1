@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Essentials</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_login">Login</string>
+    <string name ="password">Password!! Access Granted</string>
+    <string name ="username">Enter Username!! success</string>
+    <string name ="phone">Enter a max of 10 digits, Thank you!!</string>
+    <string name ="lastname">Enter Your Lastname</string>
+    <string name ="email">Enter Your Email</string>
+    <string name ="firstname">Enter Your Firstname</string>
+    <string name ="welcome"> Welcome We Have Patiently Been Waiting</string>
+    <string name ="submit">Submit</string>
+    <string name ="createaccount">Create Acount</string>
+
+
+</resources>
